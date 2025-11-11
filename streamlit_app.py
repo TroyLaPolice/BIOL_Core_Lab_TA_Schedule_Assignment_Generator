@@ -48,7 +48,7 @@ st.sidebar.info("After uploading both CSVs, click **Run Solver** to start optimi
 # ==========================================
 # File Uploads
 # ==========================================
-st.title("🎓 BIOL Cor Lab TA Schedule Optimization App")
+st.title("🎓 BIOL Core Lab TA Schedule Optimization App")
 
 st.markdown("""
 Upload the following two CSV files:
